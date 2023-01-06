@@ -1,4 +1,4 @@
-const API_URL = "https://yourdomain/graphql";
+const API_URL = "https://fombina.com/graphql";
 
 async function fetchAPI(query, { variables } = {}) {
     const headers = { "Content-Type": "application/json" };
